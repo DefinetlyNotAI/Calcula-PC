@@ -1,0 +1,10 @@
+Python Dependencies in ComputerHacks Include:
+
+Libraries:
+	time
+	re
+
+To install the dependencies in case the python program crashes use these commands in cmd (Tested only in Windows):-
+
+		pip install time or pip3 install time
+		pip install re or pip3 install re
